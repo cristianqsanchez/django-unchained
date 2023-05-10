@@ -10,6 +10,11 @@ Crear una aplicación web bien sea con el framework Django o flask
 
 ## installation :genie:
 
+### clone repository :dizzy:
+```
+git clone https://github.com/cristianqsanchez/django-unchained.git
+```
+
 ### set virtual environment :truck:
 ```
 python -m venv venv
